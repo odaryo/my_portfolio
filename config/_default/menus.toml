@@ -29,8 +29,8 @@
   weight = 60
 
 [[main]]
-  name = "Posts"
-  url = "/post"
+  name = "Blog"
+  url = "https://odaryo.hatenablog.com/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
