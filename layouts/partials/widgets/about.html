@@ -20,14 +20,15 @@
 <!-- About widget -->
 <div class="row">
 
-  <div class="col-12 center-text">
-  {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-  {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
-  <div class="col-md-12 section-heading">
-    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  <div class="col-12 center-text section-heading">
+    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    <div class="col-md-12 section-heading">
+      {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+    </div>
   </div>
-  </div>
-  <div class="col-12 col-lg-4">
+
+  <div class="col-12 col-lg-3">
 
     <div id="profile">
 
@@ -39,8 +40,6 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h3>名前: {{ $person.name }}</h3>
-        <h3>居住地: {{ $person.address }}</h3>
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}
@@ -77,7 +76,7 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8">
+  <div class="col-12 col-lg-9">
 
     {{ $person_page.Content }}
 
