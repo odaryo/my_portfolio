@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Ryotaro Oda
+address: 広島県
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +11,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Web App Engineer
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,7 +55,10 @@ user_groups:
 - Visitors
 ---
 
-経歴いろいろ
+Webアプリエンジニアです。
 
-2016年よりフリーランスとして活動
+2016年よりフリーランスとして活動しています。  
+現在は准委任契約での開発プロジェクトへ参加がメイン。
+
+フロントエンド/バックエンド/インフラ問わず開発しています。
 
