@@ -17,28 +17,78 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "食品卸業者向け発注システムの開発"
+  company = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+順委任契約でプロジェクトに参加  
+業務効率化のための、卸先店舗向け商品発注システムと基幹システムへの連携バッチ機能を開発。
+
+チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務、
+開発環境の整備、新人教育などを担当。
+
+【Skills】  
+PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "エステサロンの施術支援ツール"
+  company = ""
+  date_start = "2018-03-01"
+  date_end = ""
+  description = """
+受託でエステサロン向けの施術支援ツールを開発
+（顧客管理、カルテ管理、教育支援、販売管理など）  
+
+1人で打ち合わせから開発、保守まで担当（継続中）
+
+【Skills】  
+PHP / Laravel5 / jQuery / SCSS / Nginx / MariaDB / Docker 
+  """
+
+[[experience]]
+  title = "建築系の業務システムのリプレース"
+  company = ""
+  date_start = "2017-05-01"
+  date_end = "2017-12-31"
+  description = """
+順委任契約でプロジェクトに参加  
+COBOLベースのシステムのリプレース対応を行う
+
+10人規模のプロジェクトで基本設計〜結合テストまでを担当
+
+【Skills】  
+VB.net / SQLServer 
+  """
+
+[[experience]]
+  title = "フリーランスとして独立"
+  company = ""
+  date_start = "2016-04-01"
+  date_end = ""
+  description = """
+受託案件や準委任でのシステム開発を行う
+  """
+
+[[experience]]
+  title = "某SIer入社"
+  company = ""
+  date_start = "2010-04-01"
+  date_end = "2016-03-31"
+  description = """
+  主に社内受託プロジェクトを担当
+  
+- 交通系会社の勤怠管理システム開発
+- 自動車リース会社のHP＆受注システム開発
+- 色彩学習用Androidアプリ開発
+
+など
+
+【Skills】  
+PHP / Wordpress / Java / javascript / jQuery / SCSS / C# / VB.net / C++
+  """
 
 +++
