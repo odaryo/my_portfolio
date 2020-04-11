@@ -4,7 +4,7 @@
     font-size: 2rem;
   }
 
-  p{
+  p {
     font-size: 1rem;
   }
 }
@@ -27,5 +27,17 @@
 
   .network-icon {
     margin-top: 10px;
+  }
+}
+
+.featurette {
+  h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  .subtitle {
+    font-size: 0.6rem;
+    font-weight: bold;
   }
 }
