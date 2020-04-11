@@ -55,6 +55,9 @@ user_groups:
 - Visitors
 ---
 
+名前： Ryotaro Oda  
+住所： 広島県 在住  
+
 Webアプリエンジニアです。
 
 2016年よりフリーランスとして活動しています。  
