@@ -18,6 +18,7 @@ subtitle = "スキル"
   name = "Front-end"
   sub = "フロントエンド関連"
   description = """
+【言語】  
 HTML, css, scss  
 bootstrap(3, 4), bulma  
 javascript (jQuery, Vue.js, Nuxt.js)
@@ -27,10 +28,11 @@ javascript (jQuery, Vue.js, Nuxt.js)
   name = "Back-end"
   sub = "バックエンド関連"
   description = """
+【言語】  
 PHP (Laravel, Cakephp3)  
 Wordpress  
 
-ミドルウェア:  
+【ミドルウェア】  
 Nginx, Apache  
 MySQL, Redis  
   """
@@ -39,7 +41,10 @@ MySQL, Redis
   name = "Other"
   sub = "その他"
   description = """
-利用ツール:  
+【言語】  
+C#, VB.net
+
+【利用ツール】  
 Intellij IDEA / PhpStorm  
 Docker  
 
