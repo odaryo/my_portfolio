@@ -19,6 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "マッサージサロン向けのWEBリプレース"
+  company = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+
+個人請負でのサービス開発
+要件定義から業務効率化の提案から、開発、リリース後のブラッシュアップまで。（デザインのみ外注）
+
+HP&Blogのリプレースと、予約Webアプリの開発を行う。
+
+利用技術  
+- HP：Nuxt.js(typescript) + Netlify  
+- Blog：Nuxt.js(typescript) + Wordpress（WP-REST−API） + Netlify  
+- 予約システム：Nuxt.js(typescript) + Laravel6 + VPS(ConoHa)
+
+HP側はリプレース前のWordpress資産を活かしつつ、JAMstackを使ったセキュリティ強化と速度改善に務める。  
+予約Webアプリは既存顧客管理システムとの連携を行う。
+
+
+【Skills】  
+PHP7.4 / Laravel6 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS / Nginx / MariaDB / Redis / Docker 
+  """
+
+[[experience]]
   title = "食品卸業者向け発注システムの開発"
   company = ""
   date_start = "2018-10-01"
@@ -30,12 +55,14 @@ date_format = "Jan 2006"
 チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務、
 開発環境の整備、新人教育などを担当。
 
+（2020/06 保守継続中）
+
 【Skills】  
 PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker 
   """
 
 [[experience]]
-  title = "エステサロンの施術支援ツール"
+  title = "マッサージサロンの施術支援ツール"
   company = ""
   date_start = "2018-03-01"
   date_end = ""
@@ -43,7 +70,7 @@ PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker
 受託でエステサロン向けの施術支援ツールを開発
 （顧客管理、カルテ管理、教育支援、販売管理など）  
 
-1人で打ち合わせから開発、保守まで担当（継続中）
+1人で打ち合わせから開発、保守まで担当（2020/06 保守継続中）
 
 【Skills】  
 PHP / Laravel5 / jQuery / SCSS / Nginx / MariaDB / Docker 
