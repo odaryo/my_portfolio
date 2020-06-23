@@ -46,8 +46,10 @@ C#, VB.net
 
 【利用ツール】  
 Intellij IDEA / PhpStorm  
-Docker  
+Docker / WSL2  
 
+【その他】
+簿記（3級）
   """
 
 +++

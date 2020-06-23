@@ -114,6 +114,9 @@ VB.net / SQLServer
 
 など
 
+2015年4月に取締役就任。  
+経営参画や人材管理等を行う
+
 【Skills】  
 PHP / Wordpress / Java / javascript / jQuery / SCSS / C# / VB.net / C++
   """
