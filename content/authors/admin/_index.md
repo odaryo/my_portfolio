@@ -57,7 +57,6 @@ user_groups:
 
 名前： Ryotaro Oda  
 住所： 広島県 在住  
-子供： 1人（3歳女児）
 
 Webアプリエンジニアです。
 
