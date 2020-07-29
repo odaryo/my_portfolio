@@ -98,6 +98,7 @@ VB.net / SQLServer
   date_end = ""
   description = """
 受託案件や準委任でのシステム開発を行う
+屋号：UPネット
   """
 
 [[experience]]
