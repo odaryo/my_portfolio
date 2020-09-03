@@ -44,6 +44,30 @@ PHP7.4 / Laravel6 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS / Nginx / MariaDB / Redi
   """
 
 [[experience]]
+  title = "WordpressサイトへのREST API組み込み"
+  company = ""
+  date_start = "2020-07-01"
+  date_end = "2020-08-01"
+  description = """
+
+Wordpressで作成されたHPに、記事投稿やデータ登録のAPIを追加した。  
+WordpressのPHPファイルにREST APIを実装。
+
+メンバー：2名（HP管理者、自分）
+
+
+対象サービス
+- 家具販売店のHPへ、基幹システムから商品データをインポートするAPI
+- 美容院HPのブログへ、予約管理システムからのブログデータを投稿するAPI
+
+
+(各工数は2～5人日程度)
+
+【Skills】  
+PHP7.3 / Wordpress 5.3 
+  """
+
+[[experience]]
   title = "食品卸業者向け発注システムの開発"
   company = ""
   date_start = "2018-10-01"
