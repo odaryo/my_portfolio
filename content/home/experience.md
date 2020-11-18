@@ -22,25 +22,28 @@ date_format = "Jan 2006"
   title = "マッサージサロン向けのWEBリプレース"
   company = ""
   date_start = "2020-06-01"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """
 
 個人請負でのサービス開発
-要件定義から業務効率化の提案から、開発、リリース後のブラッシュアップまで。（デザインのみ外注）
+要件定義から業務効率化の提案から、開発、リリース後のブラッシュアップまで。
+(現在保守継続中)
 
-HP&Blogのリプレースと、予約Webアプリの開発を行う。
+HP & Blogを作成した。
 
 利用技術  
 - HP：Nuxt.js(typescript) + Netlify  
-- Blog：Nuxt.js(typescript) + Wordpress（WP-REST−API） + Netlify  
-- 予約システム：Nuxt.js(typescript) + Laravel6 + VPS(ConoHa)
+- Blog：Nuxt.js(typescript) + Wordpress（WP-REST−API） + Netlify
 
-HP側はリプレース前のWordpress資産を活かしつつ、JAMstackを使ったセキュリティ強化と速度改善に務める。  
-予約Webアプリは既存顧客管理システムとの連携を行う。
+リプレース前のWordpress資産を活かしつつ、JAMstackを使ったセキュリティ強化と速度改善に務める。  
+
+BlogのCMSは使いやすさ重視でWordpressを利用。
+WP-REST-API経由でデータ取得し、Netlifyで自動ビルドさせる。
+
 
 
 【Skills】  
-PHP7.4 / Laravel6 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS / Nginx / MariaDB / Redis / Docker 
+PHP7.4 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS
   """
 
 [[experience]]
@@ -50,16 +53,14 @@ PHP7.4 / Laravel6 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS / Nginx / MariaDB / Redi
   date_end = "2020-08-01"
   description = """
 
-Wordpressで作成されたHPに、記事投稿やデータ登録のAPIを追加した。  
-WordpressのPHPファイルにREST APIを実装。
+Wordpressで作成されたHPに、記事投稿やデータ登録のAPIを追加。  
+WordpressのPHPファイルに独自 REST APIを実装。
 
-メンバー：2名（HP管理者、自分）
+メンバー：2名（フロントエンジニア、自分）
 
-
-対象サービス
+開発サービス
 - 家具販売店のHPへ、基幹システムから商品データをインポートするAPI
 - 美容院HPのブログへ、予約管理システムからのブログデータを投稿するAPI
-
 
 (各工数は2～5人日程度)
 
@@ -79,7 +80,8 @@ PHP7.3 / Wordpress 5.3
 チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務、
 開発環境の整備、新人教育などを担当。
 
-（2020/06 保守継続中）
+(2019/11 納品、現在保守継続中)
+
 
 【Skills】  
 PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker 
@@ -134,7 +136,7 @@ VB.net / SQLServer
   """
 
 [[experience]]
-  title = "某SIer入社"
+  title = "SIer入社"
   company = ""
   date_start = "2010-04-01"
   date_end = "2016-03-31"
