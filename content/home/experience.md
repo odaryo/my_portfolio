@@ -41,7 +41,6 @@ BlogのCMSは使いやすさ重視でWordpressを利用。
 WP-REST-API経由でデータ取得し、Netlifyで自動ビルドさせる。
 
 
-
 【Skills】  
 PHP7.4 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS
   """
@@ -50,7 +49,7 @@ PHP7.4 / Nuxt.js 2.12 / Wordpress 5.3 / SCSS
   title = "WordpressサイトへのREST API組み込み"
   company = ""
   date_start = "2020-07-01"
-  date_end = "2020-08-01"
+  date_end = "2020-10-01"
   description = """
 
 Wordpressで作成されたHPに、記事投稿やデータ登録のAPIを追加。  
@@ -74,7 +73,7 @@ PHP7.3 / Wordpress 5.3
   date_start = "2018-10-01"
   date_end = ""
   description = """
-順委任契約でプロジェクトに参加  
+準委任契約でプロジェクトに参加  
 業務効率化のための、卸先店舗向け商品発注システムと基幹システムへの連携バッチ機能を開発。
 
 チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務、
@@ -108,7 +107,7 @@ PHP / Laravel5 / jQuery / SCSS / Nginx / MariaDB / Docker
   date_start = "2017-05-01"
   date_end = "2017-12-31"
   description = """
-順委任契約でプロジェクトに参加  
+準委任契約でプロジェクトに参加  
 COBOLベースのシステムのリプレース対応を行う
 
 10人規模のプロジェクトで基本設計〜結合テストまでを担当
