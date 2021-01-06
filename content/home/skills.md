@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "スキル"
 
 # Showcase personal skills or business features.
 # 
@@ -15,21 +15,41 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Front-end"
+  sub = "フロントエンド関連"
+  description = """
+【言語】  
+HTML, css, scss  
+bootstrap(3, 4), bulma  
+javascript (jQuery, Vue.js, Nuxt.js)
+  """
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Back-end"
+  sub = "バックエンド関連"
+  description = """
+【言語】  
+PHP (Laravel, Cakephp3)  
+Wordpress  
+
+【ミドルウェア】  
+Nginx, Apache  
+MySQL, Redis  
+  """
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Other"
+  sub = "その他"
+  description = """
+【言語】  
+C#, VB.net
+
+【利用ツール】  
+Intellij IDEA / PhpStorm  
+Docker / WSL2  
+
+【その他】
+簿記（3級）
+  """
 
 +++

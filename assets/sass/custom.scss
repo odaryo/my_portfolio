@@ -1,0 +1,53 @@
+.section-heading {
+  h1 {
+    margin-bottom: 0;
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
+
+#profile {
+  padding: 0 10px;
+
+  .avatar {
+    width: 150px;
+    height: 150px;
+  }
+
+  .portrait-title {
+    margin-top: 20px;
+  }
+
+  .profile-status {
+    text-align: left;
+  }
+
+  .network-icon {
+    margin-top: 10px;
+  }
+}
+
+.featurette {
+  h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  .subtitle {
+    font-size: 0.6rem;
+    font-weight: bold;
+  }
+}
+
+.navbar {
+  & .outer-link {
+    position: relative;
+    &__icon {
+      position: absolute;
+      top: 0;
+    }
+  }
+}
