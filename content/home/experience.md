@@ -79,11 +79,11 @@ PHP7.3 / Wordpress 5.3
 チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務、
 開発環境の整備、新人教育などを担当。
 
-(2019/11 納品、現在保守継続中)
-
+(2019/11 納品、現在保守継続中)  
+(2021/03 VPSからAWSへの移行作業を行う)
 
 【Skills】  
-PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker 
+PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker / AWS
   """
 
 [[experience]]
