@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+title = "某フードデリバリーアプリのサーバーサイド開発"
+company = ""
+date_start = "2021-04-12"
+date_end = ""
+description = """
+
+サービス拡大のためのサーバーサイド要因としてエージェントを介しての参画。  
+主にエンジニア業務を担当。
+
+【Skills】  
+PHP7.4 / Slim Framework / GCP
+"""
+
+[[experience]]
   title = "マッサージサロン向けのWEBリプレース"
   company = ""
   date_start = "2020-06-01"
@@ -71,7 +85,7 @@ PHP7.3 / Wordpress 5.3
   title = "食品卸業者向け発注システムの開発"
   company = ""
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """
 準委任契約でプロジェクトに参加  
 業務効率化のための、卸先店舗向け商品発注システムと基幹システムへの連携バッチ機能を開発。
