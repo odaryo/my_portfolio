@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "フードデリバリーアプリ Menu のサーバーサイド開発"
-  company = "menu株式会社"
+  title = "フードデリバリーアプリのサーバーサイド開発"
+  company = ""
   date_start = "2021-04-12"
   date_end = ""
   description = """
