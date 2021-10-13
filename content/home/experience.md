@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 チームメンバー：10名（うちバックエンド3名）
 
 【Skills】  
-PHP7.4 / Slim Framework / GCP / MySQL
+PHP7.4 / Slim Framework / PHPUnit / GCP / MySQL
   """
 
 [[experience]]
@@ -41,15 +41,11 @@ PHP7.4 / Slim Framework / GCP / MySQL
   date_end = "2020-10-01"
   description = """
 
-個人請負でのサービス開発
-要件定義から業務効率化の提案から、開発、リリース後のブラッシュアップ。
-(現在保守継続中)
-
-HP & Blogを作成した。
+個人請負で既存のHP & Blogをリプレース。
 
 利用技術  
 - HP：Nuxt.js(typescript) + Netlify  
-- Blog：Nuxt.js(typescript) + WordPress（WP-REST−API） + Netlify
+- Blog：Nuxt.js(typescript) + WordPress（WP-REST−API） + Netlify  
 
 リプレース前のWordPress資産を活かしつつ、JAMstackを使ったセキュリティ強化と速度改善に務める。  
 
@@ -59,7 +55,7 @@ WP-REST-API経由でデータ取得し、Netlifyで自動ビルドさせる。
 
 
 【Skills】  
-PHP7.4 / Nuxt.js 2.12 / WordPress 5.3 / SCSS
+PHP7.4 / Nuxt.js 2.12 / Jest / WordPress 5.3 / SCSS / GitHUB
   """
 
 [[experience]]
@@ -95,14 +91,14 @@ PHP7.3 / WordPress 5.3
 準委任契約でプロジェクトに参加  
 業務効率化のための、卸先店舗向け商品発注システムと基幹システムへの連携バッチ機能を開発。
 
-チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務、
-開発環境の整備、新人教育などを担当。
+チームリーダーとして、顧客との打ち合わせから要件定義、基本/詳細設計、実装、テストなど一通りの開発業務。  
+工程管理、開発環境の整備、新人教育などを担当。
 
 (2019/11 納品、現在保守継続中)  
 (2021/03 VPSからAWSへの移行作業を行う)
 
 【Skills】  
-PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker / AWS
+PHP / Cakephp3.8 / PhpUnit / javascript / jQuery / SCSS / Apache / MySQL / Docker / AWS
 
   """
 
@@ -119,7 +115,7 @@ PHP / Cakephp3.8 / javascript / jQuery / SCSS / Apache / MySQL / Docker / AWS
 1人で打ち合わせから開発、保守まで担当（2020/06 保守継続中）
 
 【Skills】  
-PHP / Laravel5 / jQuery / SCSS / Nginx / MariaDB / Docker 
+PHP / Laravel5 / jQuery / SCSS / Nginx / MariaDB / Docker / Ubuntu / VPS
   """
 
 [[experience]]
@@ -131,7 +127,7 @@ PHP / Laravel5 / jQuery / SCSS / Nginx / MariaDB / Docker
 準委任契約でプロジェクトに参加  
 COBOLベースのシステムのリプレース対応を行う
 
-10人規模のプロジェクトで基本設計〜結合テストまでを担当
+10人規模のプロジェクトで基本設計〜単体テストまでを担当
 
 【Skills】  
 VB.net / SQLServer 
