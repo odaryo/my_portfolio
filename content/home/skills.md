@@ -35,6 +35,9 @@ Wordpress
 【ミドルウェア】  
 Nginx, Apache  
 MySQL, Redis  
+
+【インフラ】  
+AWS  
   """
 
 [[feature]]
@@ -42,11 +45,11 @@ MySQL, Redis
   sub = "その他"
   description = """
 【言語】  
-C#, VB.net
+C#, Kotlin
 
 【利用ツール】  
 Intellij IDEA / PhpStorm  
-Docker / WSL2  
+Docker  
 
 【その他】
 簿記（3級）
